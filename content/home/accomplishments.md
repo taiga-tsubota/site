@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
  [[item]]
   organization = "The University of Tokyo"
-  organization_url = "http://www.glp.u-tokyo.ac.jp/en/"
+  organization_url = "https://www.u-tokyo.ac.jp/en/index.html"
   title = "Global Leadership Program (GLP-GEfIL Program)"
   url = "http://www.glp.u-tokyo.ac.jp/en/"
-  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
+#  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2016-12-01" # date_start = "2017-07-01"
   date_end = "2019-12-01"
   description = ""
