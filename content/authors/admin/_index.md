@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a master Economics student at the University of Tokyo.
+I am an Economics master student at the University of Tokyo.
 
 My research interests include Labor Economics, Development Economics, and Econometrics.
