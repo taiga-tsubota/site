@@ -33,6 +33,7 @@ education:
     year: 2021 (Expected)
   - course: B.E. in Civil Engineering
     institution: The University of Tokyo
+    institution_url: "https://www.u-tokyo.ac.jp/en/"
     year: 2019
 
 # Social/Academic Networking
