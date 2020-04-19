@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tiger.tsubota@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tiger.tsubota@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,4 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a master Economics student at the University of Tokyo. My research interests include Labor Economics, Econometrics, and Political Economy.
+I am a master Economics student at the University of Tokyo.
+My research interests include Labor Economics, Econometrics, and Political Economy.
