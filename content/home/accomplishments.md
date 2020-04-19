@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Global Leadership Program (GLP-GEfIL Program)"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2016" # date_start = "2017-07-01"
-  date_end = "2019"
+  date_start = "2016-12-01" # date_start = "2017-07-01"
+  date_end = "2019-12-01"
   description = ""
 
 # [[item]]
