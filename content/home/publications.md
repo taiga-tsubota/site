@@ -28,8 +28,15 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Taiga Tsubota" "Masahide Horita"
     exclude_featured = false
+   
+#   [content.filters]
+#     tag = ""
+#     category = ""
+#     publication_type = ""
+#     author = ""
+#     exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
