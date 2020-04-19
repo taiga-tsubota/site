@@ -18,19 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Labor Economics, Econometrics, and Political Economy.
+bio: My research interests include Labor Economics, Development Economics, and Econometrics.
 
 interests:
 - Labor Economics
+- Development Economics
 - Econometrics
-- Political Economy
 
 education:
   courses:
-  - course: MA in Economics
+  - course: M.A. in Economics
     institution: The University of Tokyo
     year: 2021 (Expected)
-  - course: BE in Civil Engineering
+  - course: B.E. in Civil Engineering
     institution: The University of Tokyo
     year: 2019
 
@@ -68,4 +68,4 @@ user_groups:
 ---
 
 I am a master Economics student at the University of Tokyo.
-My research interests include Labor Economics, Econometrics, and Political Economy.
+My research interests include Labor Economics, Development Economics, and Econometrics.
