@@ -24,14 +24,14 @@ date_format = "Jan 2006"
 #   location = "California"
   date_start = "2020-07-01"
   date_end = ""
-  description = """
-  Stata programming for the government's data.
+  description = """Stata programming for the government's data."""
+  
 #   Responsibilities include:
 #  
 #   * Analysing
 #   * Modelling
 #   * Deploying
-  """
+
 
 [[experience]]
   title = "Professor"
