@@ -29,7 +29,7 @@ education:
   courses:
   - course: M.A. in Economics
     institution: The University of Tokyo
-    url: "https://www.u-tokyo.ac.jp/en/"
+    institution_url: "https://www.u-tokyo.ac.jp/en/"
     year: 2021 (Expected)
   - course: B.E. in Civil Engineering
     institution: The University of Tokyo
