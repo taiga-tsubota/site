@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Taiga Tsubota is a master Economics student at the University of Tokyo. My research interests include Labor Economics, Econometrics, and Political Economy.
+I am a master Economics student at the University of Tokyo. My research interests include Labor Economics, Econometrics, and Political Economy.
