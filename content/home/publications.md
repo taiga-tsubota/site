@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = "Taiga Tsubota" "Masahide Horita"
+    author = "Taiga Tsubota, Masahide Horita"
     exclude_featured = false
    
 #   [content.filters]
