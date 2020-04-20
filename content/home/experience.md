@@ -53,6 +53,5 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2017-09-31"
   description = ""
-#   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
