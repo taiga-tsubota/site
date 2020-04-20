@@ -24,13 +24,28 @@ date_format = "Jan 2006"
 #   location = "California"
   date_start = "2020-07-01"
   date_end = ""
-  description = """Stata programming for the government's data."""
+  description = ""
+#   description = """Stata programming for the government's data."""
   
 #   Responsibilities include:
 #  
 #   * Analysing
 #   * Modelling
 #   * Deploying
+
+
+[[experience]]
+  title = "Research Assistant for Prof. Stacey Chen"
+  date_start = "2019-12-01"
+  date_end = "2020-03-31"
+  description = ""
+
+
+[[experience]]
+  title = "Research Assistant for Prof. Hidehiko Ichimura"
+  date_start = "2017-09-01"
+  date_end = "2019-01-31"
+  description = ""
 
 
 [[experience]]
