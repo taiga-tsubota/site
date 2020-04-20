@@ -26,7 +26,37 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2016-12-01" # date_start = "2017-07-01"
   date_end = "2019-12-01"
+  description = "I was awarded GLP-GEfIL scholarship (JPY 820,000)."
+
+ [[item]]
+  organization = "Stanford University"
+  organization_url = "https://www.stanford.edu/"
+  title = "Stanford Summer International Honors Program"
+  url = "https://summer.stanford.edu/ihp"
+#  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
+  date_start = "2017-06-01" # date_start = "2017-07-01"
+  date_end = "2017-08-01"
   description = ""
+
+ [[item]]
+  organization = "Friends of UTokyo, Inc."
+  organization_url = "https://www.friendsofutokyo.org/"
+  title = "FUTI Scholarship"
+  url = "https://www.friendsofutokyo.org/"
+#  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
+  date_start = "2017-06-01" # date_start = "2017-07-01"
+  date_end = "2017-08-01"
+  description = "I was awarded FUTI scholarship (USD 4,000)."
+
+ [[item]]
+  organization = "The University of Tokyo"
+  organization_url = "https://www.u-tokyo.ac.jp/en/index.html"
+  title = "Freshers' Leave Year Program (FLY Program)"
+  url = "https://www.fly.c.u-tokyo.ac.jp/"
+#  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
+  date_start = "2014-04-01" # date_start = "2017-07-01"
+  date_end = "2015-03-01"
+  description = "I participated in the official gap year program with funds (JPY 470,000)."
 
 # [[item]]
 #  organization = "Coursera"
