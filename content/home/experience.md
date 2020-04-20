@@ -50,8 +50,6 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "NTT Laboratory Internship"
-  company = "Nippon Telegraph and Telephone Corporation"
-  company_url = ""
   date_start = "2017-09-01"
   date_end = "2017-09-31"
   description = ""
