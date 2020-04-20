@@ -43,18 +43,18 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant for Prof. Hidehiko Ichimura"
-  date_start = "2017-09-01"
+  date_start = "2017-09-21"
   date_end = "2019-01-31"
   description = ""
 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "NTT Laboratory Internship"
+  company = "Nippon Telegraph and Telephone Corporation"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-09-01"
+  date_end = "2017-09-31"
+  description = ""
+#   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
