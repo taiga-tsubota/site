@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2016-12-01" # date_start = "2017-07-01"
   date_end = "2019-12-01"
-  description = "I was awarded GLP-GEfIL scholarship (JPY 820,000)."
+  description = "Awarded GLP-GEfIL scholarship (JPY 820,000)."
 
  [[item]]
   organization = "Stanford University"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = ""
+  description = "Participated in Stanford Summer Session and completed Intensive Studies: International Management"
 
  [[item]]
   organization = "Friends of UTokyo, Inc."
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "I was awarded FUTI scholarship (USD 4,000)."
+  description = "Awarded FUTI scholarship (USD 4,000)."
 
  [[item]]
   organization = "The University of Tokyo"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2014-04-01" # date_start = "2017-07-01"
   date_end = "2015-03-01"
-  description = "I participated in the official gap year program with funds (JPY 470,000)."
+  description = "Participated in the official gap year program with funds (JPY 470,000)."
 
 # [[item]]
 #  organization = "Coursera"
