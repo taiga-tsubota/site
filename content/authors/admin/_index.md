@@ -18,11 +18,9 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Labor Economics, Development Economics, and Econometrics.
+bio: My research interests include Econometrics.
 
 interests:
-- Labor Economics
-- Development Economics
 - Econometrics
 
 education:
