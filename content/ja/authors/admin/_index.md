@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student
+role: 修士課程
 
 # Organizations/Affiliations
 organizations:
