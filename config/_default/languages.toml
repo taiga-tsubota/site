@@ -19,3 +19,14 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[ja]
+  languageCode = "ja"
+  contentDir = "content/ja"
+#  title = "Chinese website title..."
+#  [ja.params]
+#    description = "Site description in Chinese..."
+#  [[ja.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
