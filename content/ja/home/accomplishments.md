@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Fellowships and Honors" # I changed from "Accomplish&shy;ments" (04/19)
+title = "実績" # I changed from "Accomplish&shy;ments" (04/19)
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
  [[item]]
-  organization = "The University of Tokyo"
-  organization_url = "https://www.u-tokyo.ac.jp/en/index.html"
-  title = "Global Leadership Program (GLP-GEfIL Program)"
-  url = "http://www.glp.u-tokyo.ac.jp/en/"
-#  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
+  organization = "東京大学"
+  organization_url = "https://www.u-tokyo.ac.jp/"
+  title = "グローバルリーダー育成プログラム (GLP-GEfILプログラム)"
+  url = "http://www.glp.u-tokyo.ac.jp/"
+#  certificate_url = "http://www.glp.u-tokyo.ac.jp/"
   date_start = "2016-12-01" # date_start = "2017-07-01"
   date_end = "2019-12-01"
-  description = "Awarded GLP-GEfIL scholarship (JPY 820,000)."
+  description = "GLP-GEfIL奨学金を獲得（82万円)."
 
  [[item]]
-  organization = "Stanford University"
+  organization = "スタンフォード大学"
   organization_url = "https://www.stanford.edu/"
   title = "Stanford Summer International Honors Program"
   url = "https://summer.stanford.edu/ihp"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "Participated in Stanford Summer Session and completed Intensive Studies: International Management"
+  description = "スタンフォード・サマープログラムに参加。Intensive Studies: International Managementを修了。"
 
  [[item]]
   organization = "Friends of UTokyo, Inc."
@@ -49,14 +49,14 @@ date_format = "Jan 2006"
   description = "Awarded FUTI scholarship (USD 4,000)."
 
  [[item]]
-  organization = "The University of Tokyo"
-  organization_url = "https://www.u-tokyo.ac.jp/en/index.html"
-  title = "Freshers' Leave Year Program (FLY Program)"
+  organization = "東京大学"
+  organization_url = "https://www.u-tokyo.ac.jp/"
+  title = "初年次長期自主活動プログラム (FLYプログラム)"
   url = "https://www.fly.c.u-tokyo.ac.jp/"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2014-04-01" # date_start = "2017-07-01"
   date_end = "2015-03-01"
-  description = "Participated in the official gap year program with funds (JPY 470,000)."
+  description = "大学公式のギャップイヤープログラムに参加し、奨学金を獲得(47万円)."
 
 # [[item]]
 #  organization = "Coursera"
