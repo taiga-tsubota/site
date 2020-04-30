@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Taiga Tsubota
+title: 坪田　大河
 
 # Username (this should match the folder name)
 authors:
@@ -14,24 +14,24 @@ role: Master student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Tokyo
-  url: "https://www.u-tokyo.ac.jp/en/"
+- name: 東京大学
+  url: "https://www.u-tokyo.ac.jp/ja/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics.
+bio: 関心分野は計量経済学です。
 
 interests:
-- Econometrics
+- 計量経済学
 
 education:
   courses:
-  - course: M.A. in Economics
-    institution: The University of Tokyo
-    institution_url: "https://www.u-tokyo.ac.jp/en/"
-    year: 2021 (Expected)
-  - course: B.E. in Civil Engineering
-    institution: The University of Tokyo
-    institution_url: "https://www.u-tokyo.ac.jp/en/"
+  - course: 修士（経済学）
+    institution: 東京大学
+    institution_url: "https://www.u-tokyo.ac.jp/ja/"
+    year: 2021 (見込)
+  - course: 学士（工学）
+    institution: 東京大学
+    institution_url: "https://www.u-tokyo.ac.jp/ja/"
     year: 2019
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Economics master student at the University of Tokyo.
+東京大学・経済学研究科の修士課程に在籍しています。
 
-My research interests include Econometrics.
+関心分野は計量経済学です。
