@@ -25,11 +25,11 @@ interests:
 
 education:
   courses:
-  - course: 修士（経済学）
+  - course: 修士(経済学)
     institution: 東京大学
     institution_url: "https://www.u-tokyo.ac.jp/ja/"
     year: 2021 (見込)
-  - course: 学士（工学）
+  - course: 学士(工学)
     institution: 東京大学
     institution_url: "https://www.u-tokyo.ac.jp/ja/"
     year: 2019
