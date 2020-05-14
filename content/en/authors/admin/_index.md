@@ -18,7 +18,7 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics.
+bio: My research interests include Econometrics and Empirical Microeconomics.
 
 interests:
 - Econometrics
