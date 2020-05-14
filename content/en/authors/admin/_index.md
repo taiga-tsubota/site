@@ -22,6 +22,7 @@ bio: My research interests include Econometrics.
 
 interests:
 - Econometrics
+- Empirical Microeconomics
 
 education:
   courses:
