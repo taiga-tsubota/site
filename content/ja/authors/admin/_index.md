@@ -22,6 +22,7 @@ bio: 関心分野は計量経済学です。
 
 interests:
 - 計量経済学
+- 実証ミクロ経済学
 
 education:
   courses:
