@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "グローバルリーダー育成プログラム (GLP-GEfILプログラム)"
   url = "http://www.glp.u-tokyo.ac.jp/"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/"
-  date_start = "2016-12-01" # date_start = "2017-07-01"
+  date_start = "2016年 12月" # date_start = "2016-12-01"
   date_end = "2019-12-01"
-  description = "GLP-GEfIL奨学金を獲得（82万円)."
+  description = "GLP-GEfIL奨励金を獲得（82万円)."
 
  [[item]]
   organization = "スタンフォード大学"
@@ -41,12 +41,12 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Friends of UTokyo, Inc."
   organization_url = "https://www.friendsofutokyo.org/"
-  title = "FUTI Scholarship"
+  title = "東大友の会"
   url = "https://www.friendsofutokyo.org/"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "Awarded FUTI scholarship (USD 4,000)."
+  description = "奨励金を獲得(4,000米ドル)."
 
  [[item]]
   organization = "東京大学"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2014-04-01" # date_start = "2017-07-01"
   date_end = "2015-03-01"
-  description = "大学公式のギャップイヤープログラムに参加し、奨学金を獲得(47万円)."
+  description = "大学公式のギャップイヤープログラムに参加し、奨励金を獲得(47万円)."
 
 # [[item]]
 #  organization = "Coursera"
