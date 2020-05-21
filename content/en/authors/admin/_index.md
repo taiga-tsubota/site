@@ -18,11 +18,11 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Econometrics and Empirical Microeconomics.
+bio: My research interests include Econometrics and Applied Microeconomics.
 
 interests:
 - Econometrics
-- Empirical Microeconomics
+- Applied Microeconomics
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 
 I am an Economics master student at the University of Tokyo.
 
-My research interests include Econometrics and Empirical Microeconomics.
+My research interests include Econometrics and Applied Microeconomics.
