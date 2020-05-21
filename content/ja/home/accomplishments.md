@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006" # Originally, it was "Jan 2006".
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "グローバルリーダー育成プログラム (GLP-GEfILプログラム)"
   url = "http://www.glp.u-tokyo.ac.jp/"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/"
-  date_start = "2016年 12月" # date_start = "2016-12-01"
+  date_start = "2016-12-01" # date_start = "2016-12-01"
   date_end = "2019-12-01"
   description = "GLP-GEfIL奨励金を獲得（82万円)."
 
