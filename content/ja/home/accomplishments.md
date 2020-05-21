@@ -26,7 +26,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/"
   date_start = "2016-12-01" # date_start = "2016-12-01"
   date_end = "2019-12-01"
-  description = "GLP-GEfIL奨励金を獲得（82万円)."
+  description = "GLP-GEfIL奨励金を獲得（82万円）."
 
  [[item]]
   organization = "スタンフォード大学"
@@ -36,7 +36,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "スタンフォード・サマープログラムに参加。Intensive Studies: International Managementを修了。"
+  description = "スタンフォード大学・サマープログラムに参加。Intensive Studies: International Management を修了。"
 
  [[item]]
   organization = "Friends of UTokyo, Inc."
@@ -46,7 +46,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "奨励金を獲得(4,000米ドル)."
+  description = "奨励金を獲得（4,000米ドル）."
 
  [[item]]
   organization = "東京大学"
@@ -56,7 +56,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2014-04-01" # date_start = "2017-07-01"
   date_end = "2015-03-01"
-  description = "大学公式のギャップイヤープログラムに参加し、奨励金を獲得(47万円)."
+  description = "大学公式のギャップイヤープログラムに参加し、奨励金を獲得（47万円）."
 
 # [[item]]
 #  organization = "Coursera"
