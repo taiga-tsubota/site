@@ -18,11 +18,11 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/ja/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 関心分野は計量経済学と実証ミクロ経済学です。
+bio: 関心分野は計量経済学と応用ミクロ経済学です。
 
 interests:
 - 計量経済学
-- 実証ミクロ経済学
+- 応用ミクロ経済学
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 
 東京大学・経済学研究科の修士課程に在籍しています。
 
-関心分野は計量経済学と実証ミクロ経済学です。
+関心分野は計量経済学と応用ミクロ経済学です。
