@@ -17,14 +17,14 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Assistant for Prof. Daiji Kawaguchi"
+# [[experience]]
+#   title = "Research Assistant for Prof. Daiji Kawaguchi"
 #   company = "GenCoin"
 #   company_url = ""
 #   location = "California"
-  date_start = "2020-07-01"
-  date_end = ""
-  description = ""
+#   date_start = "2020-07-01"
+#   date_end = ""
+#   description = ""
 #   description = """Stata programming for the government's data."""
   
 #   Responsibilities include:
@@ -37,7 +37,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 [[experience]]
   title = "リサーチ・アシスタント（川口大司教授）"
   date_start = "2020-07-01"
-  date_end = "2020-09-01"
+  date_end = ""  # Leave it blank. NOT "date_end = "2020-09-01"".
   description = ""
 
 
@@ -57,6 +57,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 
 [[experience]]
   title = "研究インターンシップ（NTT・アクセスサービスシステム研究所）"
+  company_url = "https://www.ansl.ntt.co.jp/"
   date_start = "2017-09-01"
   date_end = "2017-10-01"
   description = ""
