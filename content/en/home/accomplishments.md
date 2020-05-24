@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006" # Originally, it was "Jan 2006".
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 #  certificate_url = "http://www.glp.u-tokyo.ac.jp/en/"
   date_start = "2017-06-01" # date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "Participated in Stanford Summer Session and completed Intensive Studies: International Management"
+  description = "Participated in Stanford Summer Session and completed Intensive Studies: International Management."
 
  [[item]]
   organization = "Friends of UTokyo, Inc."
