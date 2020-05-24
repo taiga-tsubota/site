@@ -35,6 +35,13 @@ date_format = "2006" # Originally, it was "Jan 2006".
 
 
 [[experience]]
+  title = "ゴールドマン・サックス"
+  date_start = "2020-07-01"
+  date_end = ""  # Leave it blank. NOT "date_end = "2020-09-01"".
+  description = ""
+
+
+[[experience]]
   title = "リサーチ・アシスタント（川口大司教授）"
   date_start = "2020-07-01"
   date_end = ""  # Leave it blank. NOT "date_end = "2020-09-01"".
@@ -42,7 +49,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 
 
 [[experience]]
-  title = "リサーチ・アシスタント（Stacey Chen教授）"
+  title = "リサーチ・アシスタント（Stacey H. Chen教授）"
   date_start = "2019-12-01"
   date_end = "2020-03-31"
   description = ""
@@ -57,6 +64,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 
 [[experience]]
   title = "研究インターンシップ（NTT・アクセスサービスシステム研究所）"
+  company = "アクセスサービスシステム研究所"
   company_url = "https://www.ansl.ntt.co.jp/"
   date_start = "2017-09-01"
   date_end = "2017-10-01"
