@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006" # Originally, it was "Jan 2006".
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -35,21 +35,28 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Research Assistant for Prof. Stacey Chen"
+  title = "リサーチ・アシスタント（川口大司教授）"
+  date_start = "2020-07-01"
+  date_end = "2020-09-01"
+  description = ""
+
+
+[[experience]]
+  title = "リサーチ・アシスタント（Stacey Chen教授）"
   date_start = "2019-12-01"
   date_end = "2020-03-31"
   description = ""
 
 
 [[experience]]
-  title = "Research Assistant for Prof. Hidehiko Ichimura"
+  title = "リサーチ・アシスタント（市村英彦教授）"
   date_start = "2017-09-21"
   date_end = "2019-01-31"
   description = ""
 
 
 [[experience]]
-  title = "NTT Laboratory Internship"
+  title = "研究インターンシップ（NTT・アクセスサービスシステム研究所）"
   date_start = "2017-09-01"
   date_end = "2017-10-01"
   description = ""
