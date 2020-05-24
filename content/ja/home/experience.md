@@ -34,11 +34,11 @@ date_format = "2006" # Originally, it was "Jan 2006".
 #   * Deploying
 
 
-[[experience]]
-  title = "ゴールドマン・サックス"
-  date_start = "2020-07-01"
-  date_end = ""  # Leave it blank. NOT "date_end = "2020-09-01"".
-  description = ""
+# [[experience]]
+#   title = "ゴールドマン・サックス"
+#   date_start = "2020-07-01"
+#   date_end = ""  # Leave it blank. NOT "date_end = "2020-09-01"".
+#   description = ""
 
 
 [[experience]]
@@ -64,8 +64,7 @@ date_format = "2006" # Originally, it was "Jan 2006".
 
 [[experience]]
   title = "研究インターンシップ（NTT・アクセスサービスシステム研究所）"
-  company = "アクセスサービスシステム研究所"
-  company_url = "https://www.ansl.ntt.co.jp/"
+  title_url = "https://www.ansl.ntt.co.jp/"
   date_start = "2017-09-01"
   date_end = "2017-10-01"
   description = ""
