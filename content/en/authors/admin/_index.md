@@ -69,4 +69,4 @@ user_groups:
 
 I am an Economics master student at the University of Tokyo.
 
-My research interests include Econometrics and Applied Microeconomics.
+My research interests include Econometrics.
